@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "cuenta_bancaria/1.0.0": {
+        "runtime": {
+          "cuenta_bancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cuenta_bancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Cisco\Desktop\cuenta_bancaria\bin\Debug\net9.0\cuenta_bancaria.exe
+C:\Users\Cisco\Desktop\cuenta_bancaria\bin\Debug\net9.0\cuenta_bancaria.deps.json
+C:\Users\Cisco\Desktop\cuenta_bancaria\bin\Debug\net9.0\cuenta_bancaria.runtimeconfig.json
+C:\Users\Cisco\Desktop\cuenta_bancaria\bin\Debug\net9.0\cuenta_bancaria.dll
+C:\Users\Cisco\Desktop\cuenta_bancaria\bin\Debug\net9.0\cuenta_bancaria.pdb
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.AssemblyInfoInputs.cache
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.AssemblyInfo.cs
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.dll
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\refint\cuenta_bancaria.dll
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.pdb
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\cuenta_bancaria.genruntimeconfig.cache
+C:\Users\Cisco\Desktop\cuenta_bancaria\obj\Debug\net9.0\ref\cuenta_bancaria.dll
